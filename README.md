@@ -1,16 +1,3 @@
-# sqlite_tutorial
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Sqlite
+![Screenshot (11)](https://user-images.githubusercontent.com/94115128/223077130-7baab2f6-273f-4ad2-91c0-80ed593e96e2.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/94115128/223077145-5259b63a-fa97-44bc-8cab-0e2148f79702.png)
